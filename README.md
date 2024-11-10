@@ -37,3 +37,5 @@ Replace `scenes/pool.txt` with the path to your specific scene configuration fil
 ## **Examples**
 
 Rendered images are saved in the project directory. For instance, rendering the `pool` scene will generate an image named `pool.png`.
+![Rendered Pool Scene](https://github.com/AvivYehuda1/Ray-Tracing/blob/main/pool.png)
+
