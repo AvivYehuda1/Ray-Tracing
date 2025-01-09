@@ -29,7 +29,8 @@ This project implements a basic ray tracing algorithm, developed as part of a Gr
 To render a scene, execute the `ray_tracer.py` script with the desired scene configuration:
 
 ```bash
-python ray_tracer.py --scene scenes/pool.txt
+py ray_tracer.py scene.txt scene.png --width 500 --height 500
+
 ```
 
 Replace `scenes/pool.txt` with the path to your specific scene configuration file.
